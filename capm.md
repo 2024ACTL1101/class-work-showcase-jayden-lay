@@ -1,23 +1,3 @@
----
-title: "ACTL1101 Assignment Part B"
-author: "Jayden Lay"
-date: "2024 T2"
-output:
-  pdf_document: default
-  html_document:
-    df_print: paged
----
-
-```{r setup, include=FALSE}
-
-#I will first ensure all necessary libraries are installed.
-
-knitr::opts_chunk$set(echo = TRUE)
-library(quantmod)
-library(ggplot2)
-library(tidyverse)
-```
-
 # CAPM Analysis
 
 ## Introduction
